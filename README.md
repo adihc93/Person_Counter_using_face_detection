@@ -1,2 +1,5 @@
 # Person_Counter_using_face_detection
-Face detection using opencv. Contains two variations
+Count persons through face detection using opencv 
+Contains two variations:
+1) Count persons through image file
+2) Count persons through webcam
